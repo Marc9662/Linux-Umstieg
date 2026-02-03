@@ -1,0 +1,15 @@
+.md
+
+
+Ich bin kein Linux-Profi und das hier ist keine Anleitung.
+Das sind meine persönlichen Gedanken und Erfahrungen aus Sicht eines Windows-Umsteigers,
+der einfach ein funktionierendes System wollte.
+
+Ich komme von Windows und hatte bestimmte Erwartungen:
+
+- Spiele sollen laufen
+- NVIDIA-Grafikkarte
+- Möglichst wenig Basteln
+- Ein Desktop, der sich „normal“ anfühlt
+
+Mit diesen Erwartungen bin ich an Linux rangegangen – und genau da fingen die Probleme an.
